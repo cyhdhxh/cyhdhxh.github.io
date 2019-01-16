@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>cyh</title>
+  <title>Cyh.</title>
   <icon>https://www.gravatar.com/avatar/6f9276148e808b1ab9f13c505fa5bc88</icon>
   <subtitle>to be continued....</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>cyh.</name>
+    <name>Cyh.</name>
     <email>cyhdhxh@163.com</email>
   </author>
   
